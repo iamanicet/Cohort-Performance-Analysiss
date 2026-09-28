@@ -94,7 +94,6 @@ attendance became the main measure.
 - **Course and cohort ranking:** `08` ranks every course and cohort combination, using
   `COUNT(DISTINCT ...)` so each student is counted once.
 
-[Insert Chart Here: attendance rate by stage of course, from `04_attendance_by_course_progress.sql`]
 
 ## Skills
 
@@ -173,7 +172,6 @@ phone number. 1,873 of 58,944 attendance rows (3.2%) are Not Recorded.
 6. **Do not judge instructor changes from this data.** Record enrolment outcomes properly,
    then compare like with like across more handoffs before drawing conclusions.
 
-[Insert Chart Here: monthly absence rate by final status, from `06_absence_pattern_before_dropout.sql`]
 
 ## Limitations
 
