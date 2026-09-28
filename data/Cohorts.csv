@@ -1,0 +1,7 @@
+cohort_id,cohort_label,start_date,end_date,schedule
+C1,Cohort 1,2023-01-02,2023-06-30,MWF
+C2,Cohort 2,2024-01-08,2024-07-26,MWF
+C3,Cohort 3,2024-07-08,2024-12-20,MWF
+C4,Cohort 4,2025-01-06,2025-08-22,MWF
+C5,Cohort 5,2025-09-08,2026-03-06,MWF
+C6,Cohort 6,2026-04-13,2026-12-18,MTWTF

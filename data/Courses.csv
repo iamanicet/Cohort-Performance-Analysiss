@@ -1,0 +1,10 @@
+course_id,course_name,category,status,replaces
+CRS-01,Digital Marketing,Marketing,Active,
+CRS-02,Data Analysis,Data,Renamed,
+CRS-03,Data Science & ML,Data,Active,CRS-02
+CRS-04,Cybersecurity,Security,Active,
+CRS-05,Front End Development,Development,Renamed,
+CRS-06,Full Stack Development,Development,Renamed,CRS-05
+CRS-07,Full Stack Development & AI Engineering,Development,Active,CRS-06
+CRS-08,Data Annotation,Data,Active,
+CRS-09,Creative Technology,Creative,Active,
