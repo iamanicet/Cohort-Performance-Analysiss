@@ -4,3 +4,6 @@
 > **Disclaimer** No real student, instructor, enrolment or attendance record was used.
 > The structure follows how AReL's real records look, but every row was generated for this exercise.
 > The findings below show how the analysis works. They are not conclusions about AReL's actual cohorts.
+
+## Executive Summary
+
